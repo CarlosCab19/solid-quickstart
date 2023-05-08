@@ -9,7 +9,7 @@ export default function Home() {
       <Counter />
       <p>
         {" "}
-        <a href="consulta.xml" target="_blank">
+        <a href="https://www.youtube.com/watch?v=IN309zD9eH8&ab_channel=CalidadFake" target="_blank">
           Enlazar RSS
         </a>{" "}
       </p>
