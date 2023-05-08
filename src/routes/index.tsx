@@ -4,7 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
+      <Title><a href="https://www.youtube.com/watch?v=dSqsXku9WaM&ab_channel=RichardAhumada">Hello World</a></Title>
       <h1>Hello world!!</h1>
       <Counter />
       <p>
