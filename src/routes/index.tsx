@@ -5,12 +5,13 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1><a href="https://www.youtube.com/watch?v=dSqsXku9WaM&ab_channel=RichardAhumada">Hello world!!</a>></h1>
+      <h1>Hello world!!</h1>
       <Counter />
       <p>
         <a href="https://www.youtube.com/watch?v=dSqsXku9WaM&ab_channel=RichardAhumada" target="_blank">
-          Enlazar RSS
+          Enlazar RSSsss
         </a>
+        <a href="\src\routes\consulta.xml">link</a>
       </p>
     </main>
   );
