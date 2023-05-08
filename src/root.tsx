@@ -26,7 +26,7 @@ export default function Root() {
         <Suspense>
           <ErrorBoundary>
             <A href="/">Index</A>
-            <A href="/components/routes/consulta.xml">Aboutttt</A>
+            <A href="/">Aboutttt</A>
             <Routes>
               <FileRoutes />
             </Routes>
