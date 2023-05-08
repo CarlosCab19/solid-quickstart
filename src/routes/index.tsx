@@ -10,7 +10,7 @@ export default function Home() {
       <p>
         {" "}
         <a href="https://www.youtube.com/watch?v=IN309zD9eH8&ab_channel=CalidadFake" target="_blank">
-          Enlazar RSS
+          Enlazar RSSss
         </a>{" "}
       </p>
     </main>
