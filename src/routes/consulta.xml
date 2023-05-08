@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Feed de Carlos</title>
+        <link>https://calm-pie-45f607.netlify.app/</link>
+        <description>Noticias</description>
+        <item>
+            <title>Noticias actualidad</title>
+            <link>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada</link>
+            <description>Noticas sobre el pais</description>
+        </item>
+    </channel>
+</rss>

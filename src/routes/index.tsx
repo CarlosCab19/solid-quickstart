@@ -14,6 +14,9 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
+      <a type="application/rss+xml" href="consulta.xml">
+        Enlazar RSS
+      </a>
     </main>
   );
 }
