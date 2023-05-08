@@ -9,14 +9,11 @@ export default function Home() {
       <Counter />
       <p>
         Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+        <a href="consulta.xml" target="_blank">
+          Enlazar RSS
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
-      <a type="application/rss+xml" href="consulta.xml">
-        Enlazar RSS
-      </a>
     </main>
   );
 }
