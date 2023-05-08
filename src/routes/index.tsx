@@ -8,10 +8,10 @@ export default function Home() {
       <h1>Hello world!!</h1>
       <Counter />
       <p>
-        <a href="https://www.youtube.com/watch?v=dSqsXku9WaM&ab_channel=RichardAhumada" target="_blank">
-          Enlazar RSSsss
-        </a>
-        <a href="\src\routes\consulta.xml">link</a>
+        {" "}
+        <a href="consulta.xml" target="_blank">
+          Enlazar RSS
+        </a>{" "}
       </p>
     </main>
   );
