@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Hello world!!</h1>
       <Counter />
       <p>
-        <a href="consulta.xml" target="_blank">
+        <a href="~/routes/consulta.xml" target="_blank">
           Enlazar RSS
         </a>
       </p>
