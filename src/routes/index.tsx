@@ -8,11 +8,9 @@ export default function Home() {
       <h1>Hello world!!</h1>
       <Counter />
       <p>
-        Visit{" "}
         <a href="consulta.xml" target="_blank">
           Enlazar RSS
-        </a>{" "}
-        to learn how to build SolidStart apps.
+        </a>
       </p>
     </main>
   );
